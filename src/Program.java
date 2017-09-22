@@ -142,6 +142,7 @@ public class Program {
     }
 
     public static void main(String args[]){
+        //test
         JFrame frame = new JFrame();
         frame.setContentPane(new Program().mainPanel);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
